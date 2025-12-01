@@ -3,7 +3,7 @@
 // Koneksi ke database film_ku
 
 $host = 'localhost';
-$db   = 'film_ku';  // nama database kamu
+$db   = 'animelist';  // nama database kamu
 $user = 'root';     // default user XAMPP
 $pass = '';         // default password XAMPP biasanya kosong
 
